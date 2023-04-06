@@ -176,7 +176,7 @@ header > p {
   overflow: hidden;
 }
 
-.about-inner .img-box img {
+.about-inner .-box img {
   display: block;
   width: 105%;
   height: auto;
